@@ -1,4 +1,3 @@
-// Destaca o link do menu correspondente à seção visível na tela
 document.addEventListener('DOMContentLoaded', () => {
     const navLinks = document.querySelectorAll('.nav-links a');
     const sections = document.querySelectorAll('section[id]');
